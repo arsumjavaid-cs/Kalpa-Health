@@ -4,3 +4,5 @@ Approach: the approach we took was to vertically combine those CSV files. Used t
 
 
 Challenge: the second challenge we faced was regarding the changed schema of the new vendor. The file format is also different from csv (i.e jsonl)
+
+While we were uploading the raw data into the repository, we could not uplad it directly because the file was larger than 25 mb. To solve this, we use Github LFS. 
