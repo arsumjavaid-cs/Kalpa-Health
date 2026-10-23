@@ -6,3 +6,7 @@ Approach: the approach we took was to vertically combine those CSV files. Used t
 Challenge: the second challenge we faced was regarding the changed schema of the new vendor. The file format is also different from csv (i.e jsonl)
 
 While we were uploading the raw data into the repository, we could not uplad it directly because the file was larger than 25 mb. To solve this, we use Github LFS. 
+
+Challenge: While we were merging the bookings data into one clean CSV file, the first issue we encountered was repeated header rows.
+
+Challenge: After cleaning the repeated rows the next challenge we faced was that the date formats were in consistent there were 2 kinds of date formats.
