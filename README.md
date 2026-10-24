@@ -38,3 +38,6 @@
 ## Working agreement
 
 Nobody pushes to `main`. Every change arrives by pull request approved by a member who did not write it. Merges are merge commits so the history stays readable. Notebook outputs are cleared before commit. The build freezes the evening before presentations.
+
+Video Links: Arsum Javaid: Video 1: https://youtu.be/UKh5w4gyNmM?si=eQ9a3p8NTi4iGx_j
+                           Video 2: https://youtu.be/nmyLGq6hgKc?si=P8GddqJKDrJ25qLM
